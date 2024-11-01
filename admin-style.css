@@ -1,0 +1,29 @@
+/*
+* WPGear. Users Login Monitor
+* admin-style.css
+*/
+#ulm_lastlogin_widget {
+	padding-right: 10px;
+}
+#ulm_lastlogin_widget div {
+	overflow-x: auto;
+}
+#ulm_lastlogin_widget div td {
+	white-space: nowrap;
+	padding-right: 5px;
+}
+.ulm_dashboard_widget_header {
+	font-size: inherit !important;
+    font-weight: inherit !important;
+}
+.ulm_dashboard_widget_whois {
+	cursor: help;
+	color: royalblue;
+}
+.ulm_options_box {
+	border-left: 4px solid #ffba00;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    background: aliceblue;
+    padding: 10px;
+	margin-bottom: 20px;	
+}
